@@ -1,0 +1,37 @@
+#page-wrapper{
+    background-color: black;
+}
+
+
+#header-wrapper {
+    background-color: white;
+}
+
+#header-text {
+    font-size: 1.5em;
+    color: black;
+}
+
+
+#main-wrapper {
+    /* height: 850px; */
+    /* background-image: url("../images/LED_landscape.jpeg"); */
+    
+}
+
+.sections {
+    background-color: rgb(1, 46, 1);
+    color: white;
+}
+
+#about-header{
+}
+
+.section-header {
+    font-size: 1.3em;
+}
+
+#footer {
+    height: 50px;
+    background-color: black;
+}
